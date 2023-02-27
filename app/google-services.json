@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "519684632048",
+    "project_id": "yoga-28",
+    "storage_bucket": "yoga-28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519684632048:android:23bacf8b68c6b29d09c135",
+        "android_client_info": {
+          "package_name": "com.example.yogaposesprediction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519684632048-21k372ll3i4pb1r286c1pvj10v296r1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9stDHIWr1CSMszsSpJhB5sy0P_oj3Ds0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519684632048-21k372ll3i4pb1r286c1pvj10v296r1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

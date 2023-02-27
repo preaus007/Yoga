@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.os.Handler;
 
 import com.airbnb.lottie.LottieAnimationView;
+import com.example.yogaposesprediction.starter.SignIn;
 
 public class SplashScreen extends AppCompatActivity {
 
@@ -22,7 +23,7 @@ public class SplashScreen extends AppCompatActivity {
         lottieAnimationView = findViewById(R.id.starter_anim);
 
         new Handler().postDelayed(() -> {
-            Intent intent = new Intent(SplashScreen.this, MainActivity.class);
+            Intent intent = new Intent(SplashScreen.this, SignIn.class);
             startActivity(intent);
             finish();
         }, SPLASH_SCREEN);
